@@ -8,4 +8,4 @@ console.log(name)
 
 console.log("Height:")
 // console.log(height  -4) //when it is - it always tries to convert string to a number 
-console.log(height+2)
+console.log(paresInt(height)+2)
